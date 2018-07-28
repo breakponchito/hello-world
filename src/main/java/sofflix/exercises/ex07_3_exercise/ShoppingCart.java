@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ex07_3_exercise;
+package sofflix.exercises.ex07_3_exercise;
 
 /**
  *

@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package soccer;
+package sofflix.practices.practice_06_objectsclasses_2.soccer;
 
 /**
  *

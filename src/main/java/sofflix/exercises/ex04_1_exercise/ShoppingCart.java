@@ -1,5 +1,5 @@
 
-package ex04_1_exercise;
+package sofflix.exercises.ex04_1_exercise;
 
 public class ShoppingCart {
     
