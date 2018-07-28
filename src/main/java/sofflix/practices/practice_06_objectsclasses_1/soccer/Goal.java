@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package soccer;
+package sofflix.practices.practice_06_objectsclasses_1.soccer;
 
 /**
  *

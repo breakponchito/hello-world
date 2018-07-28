@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package soccer;
+package sofflix.practices.practice_07_manipulateformat_1.soccer;
 
 /**
  *
